@@ -1,1 +1,1 @@
-A smart hsopping website developed with NodeJS, Express, Puppeteer, and React.
+A smart shopping full stack app developed with NodeJS, Express, Puppeteer, and React.
